@@ -40,7 +40,7 @@
     "BOT_NAME" : {
 
       "description":"put A name for your bot",
-      "value":"FLASH-MD",
+      "value":"𝐊𝐈𝐍𝐆 𝐁𝐀𝐋𝐃𝐖𝐈𝐍 𝐕𝟐❤️🤚🏼",
       "required":false
 
     } ,
@@ -54,7 +54,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"no",
+      "value":"yes",
       "required":false
     }
         ,
@@ -79,14 +79,14 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "France King"
+    "value": "ᴋɪɴɢ ʙᴀʟᴅᴡɪɴ"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254751284190"
+    "value": "2349132095836"
   },
     "WARN_COUNT":
   {
