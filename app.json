@@ -47,7 +47,7 @@
      "BOT_MENU_LINKS" : {
 
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+      "value":"https://telegra.ph/file/e51f13554bc36956c226a.jpg,https://telegra.ph/file/6d1ee47584ae83da52e6b.jpg,https://telegra.ph/file/10ad6c01f7d3c47488a5b.mp4,https://telegra.ph/file/7cc2fd98aa7d379b7d6a6.mp4,https://telegra.ph/file/d057f43a77032bd6d8fb7.mp4,https://telegra.ph/file/224fe86f0adb38cf01726.mp4,https://telegra.ph/file/8bea55fa7666a3d092708.mp4,https://telegra.ph/file/b8d67c23456d2e62a4975.mp4,https://telegra.ph/file/becd7d1994ec7acc631bd.mp4,https://telegra.ph/file/b56856c416d041c853620.mp4,https://telegra.ph/file/ca1c32d71d33ffccf35ae.mp4,https://telegra.ph/file/aa9ebbb4fab8701138a67.mp4,https://telegra.ph/file/282a6204075b509f35c9b.mp4",
       "required":false
 
      },
