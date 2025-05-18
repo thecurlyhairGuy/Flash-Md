@@ -49,12 +49,12 @@
     },
     "MODE": {
       "description": "Bot mode: private (only owner) or public (everyone)",
-      "value": "private",
+      "value": "public",
       "required": false
     },
     "PREFIX": {
       "description": "Command prefix(es), separated by commas (e.g. !,.,#)",
-      "value": "!",
+      "value": ".",
       "required": false
     },
     "SESSION": {
@@ -70,12 +70,12 @@
     "HEROKU_API_KEY": {
       "description": "Your Heroku account API key (found in account settings)",
       "value": "",
-      "required": true
+      "required": false
     },
     "HEROKU_APP_NAME": {
       "description": "The name of your app on Heroku (must match your dashboard app name)",
       "value": "",
-      "required": true
+      "required": false
     }
   },
   "formation": {
